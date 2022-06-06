@@ -1,0 +1,1 @@
+Supports only mongodb right now, need to add support for SQL
